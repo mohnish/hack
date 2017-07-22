@@ -16,7 +16,7 @@ The goal here is to build a text editor that is fast and extensible.
 
 ## Features
 
-*Hack* is going to be a very light and bare bones.
+*Hack* is going to be a very light weight and bare bones text editor.
 
 ## Who is this for?
 
