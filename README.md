@@ -21,3 +21,8 @@ The goal here is to build a text editor that is fast and extensible.
 ## Who is this for?
 
 Chances are that *Hack* is not for you. This is being built for me. However, you can fork it and add features, fix bugs, add docs, remove features or do whatever you want with it. It's an open source project after all.
+
+
+## LICENSE
+
+MIT
